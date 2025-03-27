@@ -1,0 +1,8 @@
+
+        DQN Test Report
+        ---------------------
+        Total Episodes: 100
+        Objects were mixed successfully: 72 out of 100
+        Total Completion Time: 390.07 seconds
+
+        
